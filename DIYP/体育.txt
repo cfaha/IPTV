@@ -1,0 +1,163 @@
+ALL Sports Brasil,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+ASSP3(backup),https://epg.pw/stream/12bc4618952422ea3af0ca05c75d8fad3765d44263de80800d925bc4d197b9fd.ctv
+ASSP4(backup),https://epg.pw/stream/2db1bdc9806dd47b126812f83c0df3800d82c115e429a4a71c892ad7f1fa9546.ctv
+ASTRO Cricket,https://epg.pw/stream/157b6991d8fb72bc26d6f982d9b9df2bf2b2b978a9a991c165a7b4d51d4aa02f.ctv
+ATG,https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+Abu Dhabi Sports 2,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+Abu Dhabi Sports 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+Abu Dhabi Sports TV 1,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+Abu Dhabi Sports TV 2,https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+Aio Sport 1 (480p),https://af.ayas.ir/hls2/aiosport.m3u8
+Aio Sport 2 (480p) [Not 24/7],https://af.ayas.ir/hls2/aiosport2.m3u8
+All Sports,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+All Sports (720p),https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+AntenaSport (720p) [Not 24/7],https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+Arryadia (360p) [Not 24/7],https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+Astrahan.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+Astro SuperSport2(backup),https://epg.pw/stream/542e6bfce330704a3f113f33ea8f9c92b6fd5d05ae732eaad7aecd66c8758210.ctv
+Astro Supersports 1,https://epg.pw/stream/feae21b89fdbfe7adad49de23b6336507cd5af94c3c7307e610ed31644a73d53.ctv
+Astro Supersports 2,https://epg.pw/stream/2cff22a2efbedd8a4334f510144d5351f98bbffbd4c0c9e95409455cfd806f60.ctv
+Astro Supersports 3,https://epg.pw/stream/a9939af058d0366e83917b0f7ae6d084f588a1476bb3c6a8ba6c6ab4e1de6df6.ctv
+AstroSupersports4,https://epg.pw/stream/dd236842d46ab1793deb3682ee279acbb9f0f3b76f04888719925e43b14935ca.ctv
+B1B Box (720p),https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
+BEK Sports West,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+Bahrain Sports 1 (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+Bahrain Sports 2 (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+CampusLore,https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+Canal Motor,https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+Canal do Inter,https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+DSTV (720p),http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+Dubai Racing 2 (1080p),https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+Dubai Racing 3 (1080p),https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+Dubai Sports 1,https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+Dubai Sports 1 (1080p),https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+Dubai Sports 2,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+Dubai Sports 2 (720p),https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+Dubai Sports 3,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+Dubai Sports 3 (1080p) [Not 24/7],https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+EDGEsport (1080p),https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+EDGEsport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+ERT Sports 1,http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+ERT Sports 2,http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
+ESPN 2,https://epg.pw/stream/90e3458f21afde8eef8dfb0c5b5af2e193c0690f215503f4efa51a2f6bb38003.ctv
+ESPN NEWS,https://epg.pw/stream/62597ee70480e4f1c8bf8e7e831e99bf2b456f06ed3d3ae434fa55c28fea142d.ctv
+ESTV (1080p),https://estv-rakuten.amagi.tv/playlist.m3u8
+ESTV,https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+Eurosport1[1024•576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
+Eurosport2[1024•576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+Eurosport1 HD[1920•1080],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport2 HD[1280•720],http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
+FOX Sports 2,https://epg.pw/stream/e391bf693f1068f842e02ec6ae3ed97ec1059124e33fc1a058cd1c19a17f27d0.ctv
+FTV (720p),https://master.tucableip.com/ftv/index.m3u8
+FUEL TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
+Fite,https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+Fubo Sports Network,https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+Golf Network,http://202.60.106.14:8080/1335/playlist.m3u8
+Ishusho TV,https://tv.livebcm.com:3425/stream/play.m3u8
+KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+Lacrosse TV (720p),https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+MAVTV Select,https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+MMA-TV.com,https://tbs01-edge11.itdc.ge/m1/index.m3u8
+M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
+MadeinBO TV,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+Midpen Media Center Youth Education and Sports Channel 28,https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
+More Than Sports TV,https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+NBA TV,https://epg.pw/stream/8283b38b44af58d2f06ee68ff3c0cbb3c3a615d017c24c6390f58b650cd04745.ctv
+Oman Sports TV (1080p) [Not 24/7],https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+One Golf (720p),http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+Pac 12 Insider (1080p),https://pac12-roku-us.amagi.tv/playlist.m3u8
+Persiana Sports,https://af.ayas.ir/hls2/persiana.m3u8
+Poker TV,https://hls.pokertvfa.live/hls/stream.m3u8
+QazSport (480p) [Geo-blocked],https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+RTA Sport (720p),https://hls.rtasport.live/hls/stream.m3u8
+Racing America (720p),https://lnc-racing-america.tubi.video/playlist.m3u8
+Realitatea Sportivă (720p),https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+SEO TV 5 Deportes (1080p) [Not 24/7],https://live.seo.tv.bo/live/SEO-5.m3u8
+SITV劲爆体育,https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
+SOS Kanal Plus,https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+SSC 1 (720p),https://af.ayassport.ir/hls2/ssc1.m3u8
+SSC Action Waleed (1080p) [Not 24/7],https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+San Marino RTV Sport (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+San Marino Rtv Sport,https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+Sharjah Sports,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+SportOutdoor.tv,https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+Sport2U,https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+Sport en France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+Sports Connect (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+SportyStuff TV,https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+Strongman,https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNT Sports 2 Brasil (720p) [Not 24/7],https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+TNT Sports Brasil (720p) [Not 24/7],https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+TR Sport,https://livetr.teleromagna.it/mia/live/playlist.m3u8
+TVMAX (720p),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+TVS Boxing,https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+TVS Classic Sports,https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+TVS Classic Sports (720p),http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+TVS Sports,https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+TVS Sports Bureau,https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+TVS Turbo,https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+TVS Women Sports,https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+Trace Sport Stars (Australia) (1080p),https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+Türkmenistan Sport (406p) [Not 24/7],http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+Vinx TV (1080p),https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
+WAPA-DT2 (WAPA Deportes) (1080p),https://live.field59.com/wapa/wapa2/playlist.m3u8
+WWE HD,https://epg.pw/stream/455f2a625b635b94216638f81a7821b38e83dcdcdb831b0c09edf60b2b4103cc.ctv
+eSports Max (480p) [Not 24/7],http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+espn,https://epg.pw/stream/90ce3ac3438454b4e98492e4a73d216226184ed9eafdb76ee8a6a7a10a30daf0.ctv
+ like Gecko) Chrome/81.0.4044.138 Safari/537.36",https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+viju+ Sport Russia (576p),https://tbs01-edge11.itdc.ge/viasatsport/index.m3u8
+yes sport 5 hd,https://epg.pw/stream/8d54463f790f294e7577c2af698f0d2f8dfa3ac2617a077757eaedb0d75baab3.ctv
+Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
+「安徽」安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+中国-北京体育广播,http://cnlive.cnr.cn/hls/bjtygb.m3u8
+五星体育,https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
+五星体育 FM94.0,http://ls.qingting.fm/live/4928.m3u8
+五星体育 8m,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
+五星體育,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+劲爆体育,https://tv.iill.top/bestv/jbty
+勁爆體育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
+北京体育,https://ls.qingting.fm/live/335/64k.m3u8
+北京体育广播 FM102.5,http://ls.qingting.fm/live/335.m3u8
+印度 DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+咪咕体育4K,http://r.jdshipin.com/ln4xk
+土库曼斯坦 Turkmenistan Sport,http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+安徽综艺体育频道,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
+山东-TsingtaoMusic&SportsRadio,http://ls.qingting.fm/live/1677.m3u8
+山东体育广播 FM102.1,http://ls.qingting.fm/live/60266.m3u8
+快樂垂釣,https://epg.pw/stream/0a171c6c48538d21d5bb95880841926ad4d313ab4347521e4fcd4cc5192ee9b4.ctv
+新视觉,http://42e83a32dc4e03efd8bbca6906228db9.h2.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+澳门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+电竞天堂 8m,https://epg.pw/stream/b15253f0c6efa7ff1af10e9082c7cb00b32f61336547ded9fd0360ef015c94e9.ctv
+秦皇岛体育音乐广播 FM97.3,http://live.xmcdn.com/live/522/64.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
+财经体育资讯台,http://r.jdshipin.com/Nr5jq
+超级体育,https://tv.iill.top/bestv/cjty
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+電競天堂,https://epg.pw/stream/2215b58aec9e988784dc101fa6de63fde15e8d53a489b05a01c275b8b7ae4989.ctv
+體育賽事,https://epg.pw/stream/44ba9420746bb8cea7032ca950b5aea57fc92591b8566ce4ae0a77008db5e76a.ctv
+魅力足球,https://epg.pw/stream/1efdf9710eeb19fd3d9d32bf4429371925b061d89d67a330be56bf935fe5f6a1.ctv
