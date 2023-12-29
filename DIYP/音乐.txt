@@ -1,271 +1,183 @@
-98.1 Pearl FM (720p),https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-AMC (1080p),https://amchls.wns.live/hls/stream.m3u8
-Activa TV (720p),https://streamtv.mediasector.es/hls/activatv/index.m3u8
+AMC,https://amchls.wns.live/hls/stream.m3u8
+Activa TV,https://streamtv.mediasector.es/hls/activatv/index.m3u8
 AlbKanale Music TV,https://albportal.net/albkanalemusic.m3u8
-Amordiscos (540p),https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
-Area 809 El Original (1080p),https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
-Atomic TV (360p),https://atomic.streamnet.ro/atomictv.m3u8
+Amordiscos,https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+Area 809 El Original,https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
+Atomic TV,https://atomic.streamnet.ro/atomictv.m3u8
 Avang TV,https://hls.avang.live/hls/stream.m3u8
-Azahares Radio Multimedia (720p),https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-BE@TTV (1080p),https://tv.beatfm.nl/live.m3u8
-BackusTV music (720p) [Not 24/7],http://stream.backustv.ru/live/btv3/index.m3u8
+BE@TTV,https://tv.beatfm.nl/live.m3u8
+BackusTV music [Not 24/7],http://stream.backustv.ru/live/btv3/index.m3u8
 Baraza TV Deep House,https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 Baraza TV Greek Music Hits,https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
 Baraza TV Relaxing,https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 Bblack! Classik,http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-Beats Televizyon (1080p),https://video1.getstreamhosting.com:1936/8112/8112/playlist.m3u8
+Beats Televizyon,https://video1.getstreamhosting.com:1936/8112/8112/playlist.m3u8
 Bibel TV Musik,https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 B+音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
-CCP Radio (720p) [Not 24/7],https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
+CMTV,https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 California Music Channel,https://cmc-ono.amagi.tv/playlist.m3u8
-Caltex TV (720p) [Not 24/7],https://vid1.caltexmusic.com/hls/caltextv.m3u8
-Cantina TV (1080p),https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+Caltex TV [Not 24/7],https://vid1.caltexmusic.com/hls/caltextv.m3u8
+Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 Company TV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-Conecta TV (720p),https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+Conecta TV,https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 Cosmos TV,https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-DMpy (720p),https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
-Dance FM (720p),https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-Dardimandi Music TV (1080p),https://tbs01-edge11.itdc.ge/musictv/index.m3u8
-DeepHouse District (1080p),https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+DMTV,https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+DMpy,https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
+Dardimandi Music TV,https://tbs01-edge11.itdc.ge/musictv/index.m3u8
+DeepHouse District,https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 Deutsches Musik Fernsehen,https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 ELECTRO,https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-EcuaMundo Radio TV (720p),https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-EnerGeek Radio (1080p),https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 Euro Indie Music Chart TV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 FLASHBACK,https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 Falastini TV [Geo-blocked],https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
-Famatv (1080p) [Not 24/7],https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
-Folklorit TV (1080p) [Not 24/7],https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
-Full Música (720p),https://eu1.servers10.com:8081/8060/index.m3u8
-GO TV (720p),https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Global TV (1080p),https://stmv.video.gmpro.top/global/global/playlist.m3u8
+Famatv [Not 24/7],https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+Folklorit TV [Not 24/7],https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+Full Música,https://eu1.servers10.com:8081/8060/index.m3u8
+GMTV,https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8
+GO TV,https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+Global TV,https://stmv.video.gmpro.top/global/global/playlist.m3u8
 Good-Sound,http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
 GoodTV 经典音乐[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-HMI PROMZ NEWS (720p),https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
-Heart Radio Aruba (720p),https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+HMI PROMZ NEWS,https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 Hi Music,https://t2.tvmak.com/tv/himusic.m3u8
-High Vision (1080p) [Not 24/7],https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-Huila TV (720p),https://plataformavideo.com:19360/8020/8020.m3u8
-Impact TV Dance (1080p),https://online.tvimpact.live/hls/dancetv.m3u8
-Impact TV Manele (1080p),https://online.tvimpact.live/hls/impact_tv.m3u8
-Italianissimo (360p) [Not 24/7],https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-Ivoire Channel (720p),https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-JooMusic (720p),https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-KRAL Pop TV (720p),https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-KandelaTV (480p),https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Kiss TV (1080p),https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-Klape i Tambure TV (1080p),https://stream.cmctv.hr:49998/kit/live.m3u8
-Kuriakos Music (1080p),http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-LA MIA TV (720p) [Not 24/7],https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
-La Hermandad Salsera (1080p) [Not 24/7],https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-La Imagen de Tierra Caliente (768p),https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
-La Luperrona Ciudad Guzmán (240p),https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
-La Luperrona Colima (256p),https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
-La Luperrona Ocotlán (300p),https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
-La Ranchera de Cuauhtémoc 89.7 FM (720p),https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8
-La Rock 22 (1080p),http://138.117.4.70:8075/channel22/playlist.m3u8
-La-X (720p),https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-Latvijas Šlāgerkanāls (720p),https://stream.onlive-media.com/live/streams/smk.m3u8
-LiraTV (720p),https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-Littoral FM (720p),https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-Live99FM (1080p),https://media.streambrothers.com:19360/8022/8022.m3u8
-Look Thoong TV (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+High Vision [Not 24/7],https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+Huila TV,https://plataformavideo.com:19360/8020/8020.m3u8
+Impact TV Dance,https://online.tvimpact.live/hls/dancetv.m3u8
+Impact TV Manele,https://online.tvimpact.live/hls/impact_tv.m3u8
+Italianissimo [Not 24/7],https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+Ivoire Channel,https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+JooMusic,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+KRAL Pop TV,https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+KandelaTV,https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+Kiss TV,https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+Klape i Tambure TV,https://stream.cmctv.hr:49998/kit/live.m3u8
+Kuriakos Music,http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+LA MIA TV [Not 24/7],https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+La Hermandad Salsera [Not 24/7],https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+La Imagen de Tierra Caliente,https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
+La Luperrona Ciudad Guzmán,https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
+La Luperrona Colima,https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
+La Luperrona Ocotlán,https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
+La Rock 22,http://138.117.4.70:8075/channel22/playlist.m3u8
+La-X,https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+Latvijas Šlāgerkanāls,https://stream.onlive-media.com/live/streams/smk.m3u8
+LiraTV,https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+Look Thoong TV [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 M2,http://live.m2.tv/hls3/stream.m3u8
 MBC America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-MNTV Music (1080p),https://mntv.livebox.co.in/musichls/live.m3u8
+MNTV Music,https://mntv.livebox.co.in/musichls/live.m3u8
 MOBA,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+MTV,http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV Club,http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/558/index.m3u8
+MTV HD CA,http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6461/index.m3u8
+MTV Kosova,https://t2.tvmak.com/tv/mtvkosova.m3u8
 MUZZIK,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-Magic TV (720p),https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-MasMusica FM (720p),https://movil.ejeserver.com/live/masmusica.m3u8
-Mas23 TV (1080p),https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
-Mayotte One TV (1080p),https://live.mytv.yt:3946/multi_web/play.m3u8
-Metropoli Medios TV (720p),https://eu1.servers10.com:8081/8214/index.m3u8
-Metropolitana FM (720p),https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
-Miel TV (720p) [Not 24/7],https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-Mun2TV (720p),https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+Magic TV,https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+Mas23 TV,https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
+Mayotte One TV,https://live.mytv.yt:3946/multi_web/play.m3u8
+Metropoli Medios TV,https://eu1.servers10.com:8081/8214/index.m3u8
+Miel TV [Not 24/7],https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+Mun2TV,https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
 Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-Muzangala TV (1080p),https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-Más FM 95.9 (720p),https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-Mūzikas Video Kanāls (720p),https://stream.onlive-media.com/live/streams/mvk.m3u8
-NG (720p),https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+Muzangala TV,https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+Mūzikas Video Kanāls,https://stream.onlive-media.com/live/streams/mvk.m3u8
+NG,https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 Nago TV,https://lakay.online/public/nagotv/index.fmp4.m3u8
 Navahang TV,https://hls.navahang.live/hls/stream.m3u8
-NogoumFMTV (672p) [Not 24/7],https://nogoumtv.nrpstream.com/hls/stream.m3u8
 Now 80s,https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-Nueva Vida TV (720p),https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
-ON FM (720p),https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-Ola Grupera (720p),https://s.emisoras.tv:8081/olagruperamx/index.m3u8
-Ondambiental TV (360p),https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+Nueva Vida TV,https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
+Ola Grupera,https://s.emisoras.tv:8081/olagruperamx/index.m3u8
+Ondambiental TV,https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 PMC,https://hls.pmchd.live/hls/stream.m3u8
-PMC Royale (720p) [Not 24/7],https://rohls.pmc.live/hls/stream.m3u8
+PMC Royale [Not 24/7],https://rohls.pmc.live/hls/stream.m3u8
 POP STAR,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-POP World TV (720p),https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-PTC Dhol (720p),https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-PTC Music (720p),https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+POP World TV,https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+PTC Dhol,https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+PTC Music,https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 Panik TV,https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-Panorama FM (1080p),https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-PlanetaTV Music (720p),https://scl.edge.grupoz.cl/music/live/music.m3u8
-Play TV (720p) [Not 24/7],http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-Power Dance (1080p),https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-Power Love (1080p),https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-Power Türk Akustik (1080p),https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-Power Türk Slow (1080p),https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-Power Türk Taptaze (1080p),https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-Princesa Estéreo TV (720p),https://cp.panelchs.com:1936/8006/8006/playlist.m3u8
-Public Music (576p) [Not 24/7],http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+PlanetaTV Music,https://scl.edge.grupoz.cl/music/live/music.m3u8
+Play TV [Not 24/7],http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+Power Dance,https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+Power Love,https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+Power Türk Akustik,https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+Power Türk Slow,https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+Power Türk Taptaze,https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+Princesa Estéreo TV,https://cp.panelchs.com:1936/8006/8006/playlist.m3u8
+Public Music [Not 24/7],http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 RJTV,http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
-RTV Glas Drine (404p) [Not 24/7],http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-Radar TV 71 (480p) [Not 24/7],https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
-Radio Aktual (1080p),https://vr1.radioaktual.si/hls/stream.m3u8
-Radio Carnaval TV (720p) [Not 24/7],https://eu1.servers10.com:8081/8116/index.m3u8
-Radio Cuenca Estéreo (720p),https://eu1.servers10.com:8081/8074/index.m3u8
-Radio El Pueblo (480p),https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-Radio Fantástica 98.9 FM (1080p),http://190.107.232.9:8082/livestream/stream.m3u8
-Radio Imagen 105.1 FM (720p) [Not 24/7],https://streaming.imagenfm105-1.com/hls/stream.m3u8
-Radio Pykasú TV (720p),https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
-Radio Q (1080p),https://panel.miplay.cl:8081/radioq/index.m3u8
-Radio Realpolitik (720p),https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-Radio Tropical Tarapoto (480p) [Not 24/7],https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+RTV Glas Drine [Not 24/7],http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+Radar TV 71 [Not 24/7],https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 RedMusic,https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
-Reload Radio Music Power HD,http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-Retro Plus 2 HD (720p),https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-Retro Plus HD (720p),https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-Reyali (614p),https://eu1.servers10.com:8081/8090/index.m3u8
-Rock TV (720p),https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-Rotana Khalijia (1080p),https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-Rotana Music (1080p) [Geo-blocked],https://daiconnect.com/live/hls/rotana/music/.m3u8
-Rumba 98.5 FM (720p),https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+Retro Plus HD,https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+Retro Plus 2 HD,https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+Reyali,https://eu1.servers10.com:8081/8090/index.m3u8
+Rock TV,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+Rotana Khalijia,https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+Rotana Music [Geo-blocked],https://daiconnect.com/live/hls/rotana/music/.m3u8
 SENSE,https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-SONGTV (720p),https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-SOY Plancha TV (720p),https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-STZ Telebista (1080p),https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-Salsa Gorda Television (720p),https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
-Sehara TV (720p),http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
-Sky Folk TV (720p) [Not 24/7],https://eu.live.skyfolk.mk/live.m3u8
-SoloBáilalo (480p),https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-Somos Topo Point TV (1080p) [Not 24/7],https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
-SpektraTV (720p),https://cloudvideo.servers10.com:8081/8136/index.m3u8
-Star Plus Music (1080p) [Not 24/7],https://live.muzickatv.mk/live/StarMusic2.m3u8
-88 Stereo (720p) [Not 24/7],http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-Strana FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+SONGTV,https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+SOY Plancha TV,https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+STZ Telebista,https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+Salsa Gorda Television,https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
+Sehara TV,http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+Sky Folk TV [Not 24/7],https://eu.live.skyfolk.mk/live.m3u8
+SoloBáilalo,https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+Somos Topo Point TV [Not 24/7],https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+SpektraTV,https://cloudvideo.servers10.com:8081/8136/index.m3u8
+Star Plus Music [Not 24/7],https://live.muzickatv.mk/live/StarMusic2.m3u8
+88 Stereo [Not 24/7],http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 TIKTAK,https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 70-80 TV,https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-TV Arbëria 4 Muzikë (720p),https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
-TVG Musigal (480p),https://musigal-crtvg.flumotion.com/playlist.m3u8
+TV Arbëria 4 Muzikë,https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+TVG Musigal,https://musigal-crtvg.flumotion.com/playlist.m3u8
 TVS Music Network,https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
-Tele7music (720p),https://live.tele7music.ro/hls/stream/index.m3u8
-Telemúsica TV (540p),https://canal.mediaserver.com.co/live/telemusica.m3u8
-Tezaur TV (1080p),http://tezaur.mlbfan.org/tezaur/index.m3u8
-The Base Gospel TV (360p),https://asiakwa.com/thebasetv/index.m3u8
-The Retro Channel (1080p),https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-The Voice TV (720p),https://bss1.neterra.tv/thevoice/thevoice.m3u8
-TopEstrada TV (720p),http://live.topestrada.com/live/topestrada/playlist.m3u8
-Top Latino TV (404p),https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+Tele7music,https://live.tele7music.ro/hls/stream/index.m3u8
+Telemúsica TV,https://canal.mediaserver.com.co/live/telemusica.m3u8
+Tezaur TV,http://tezaur.mlbfan.org/tezaur/index.m3u8
+The Base Gospel TV,https://asiakwa.com/thebasetv/index.m3u8
+The Retro Channel,https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+The Voice TV,https://bss1.neterra.tv/thevoice/thevoice.m3u8
+TopEstrada TV,http://live.topestrada.com/live/topestrada/playlist.m3u8
+Top Latino TV,https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 Top TV,http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-Tropical Moon Cumbia TV (720p),https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-Tropical Moon Salsa TV (720p),https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-Tropical Moon Urban TV (720p),https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+Tropical Moon Cumbia TV,https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
+Tropical Moon Salsa TV,https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
+Tropical Moon Urban TV,https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+UMTV [Not 24/7],https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 V2BEAT TV,https://abr.de1se01.v2beat.live/playlist.m3u8
-V Classic TV (720p),https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-VIP TV (720p),https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
-VM Latino (720p) [Not 24/7],https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-Verbena TV (1080p),https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
-Vibe Music TV (360p) [Not 24/7],http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
+V Classic TV,https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+VIP TV,https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+VM Latino [Not 24/7],https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+Verbena TV,https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+Vibe Music TV [Not 24/7],http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
 Vibee,http://de1se01.v2beat.live/chunks.m3u8
-Video Tour Channel (480p) [Not 24/7],http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-Vintage Music (720p),https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+Video Tour Channel [Not 24/7],http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+Vintage Music,https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 Virtual TV,https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
-Visión Televisión (720p),https://cloudvideo.servers10.com:8081/8016/index.m3u8
-VoiceOver Radio TV (720p),https://cloudvideo.servers10.com:8081/8198/index.m3u8
+Visión Televisión,https://cloudvideo.servers10.com:8081/8016/index.m3u8
 Volksmusik TV,https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 WORLD WIDE MUZZIK,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 Wanasah,https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-Wanasah (1080p),https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-XPTV1 (720p),https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-Xite (720p),https://xite-samsung-de.amagi.tv/playlist.m3u8
-ZFM Zoetermeer (720p),https://zfmzoetermeer.nl/live/master.m3u8
+XPTV1,https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+Xite,https://xite-samsung-de.amagi.tv/playlist.m3u8
 ZZ TV,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 dj一起闯天涯,https://play.bgp.68tool.com/video/m3u8/2022/08/03/cbf3961c/playlist.m3u8
 dj美女舞曲,http://play.xm.68tool.com/video/m3u8/2022/11/20/c1026053/playlist.m3u8
 dj舞曲,https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13060/playlist.m3u8
 dj舞曲穿透,https://pay.haiqu.vip:2266/hls/spsj/2018/01/20181011/10442/playlist.m3u8
-iHeart 80s (1080p),https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-iHeart 90s (1080p),https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+iHeart 80s,https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+iHeart 90s,https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 Муз ТВ,http://stream01.vnet.am/MuzTv/mono.m3u8
 Селенга ТВ,http://90.188.37.86/live/playlist.m3u8
-「中」任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
-「中」光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
-「中」叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
-「中」叶倩文-潇洒走一回,http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
-「中」吕方-多爱你一天,http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
-「中」吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
-「中」周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
-「中」周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
-「中」周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
-「中」孟庭苇-你看你看月亮的脸,http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
-「中」孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
-「中」孟庭苇-我说的谎都是真的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
-「中」孟庭苇-无声的雨,http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
-「中」孟庭苇-春雪,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5ZFrpzPk37KvY7CaTUj%40%40hd.m3u8
-「中」孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
-「中」孟庭苇-真的还是假的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
-「中」孟庭苇-谁的眼泪在飞,http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
-「中」孟庭苇-过冬,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
-「中」孟庭苇-雾里看花,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
-「中」孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
-「中」孟庭苇-风里的梦,http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
-「中」巫启贤-只因你伤心,http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/video.m3u8
-「中」巫启贤-太傻,http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
-「中」张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
-「中」张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
-「中」张智霖-现代爱情故事,http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
-「中」彭佳慧-回味,http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
-「中」彭佳慧-无法割舍,http://vodcdn.video.taobao.com/oss/ali-video/8be8f7d28d4f2c7ce759d431f0d3181b/video.m3u8
-「中」李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
-「中」杨曼-9999滴眼泪,http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
-「中」杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
-「中」杨钰莹-等你一万年,http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
-「中」杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
-「中」杨钰莹-轻轻告诉你,http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
-「中」梁朝伟-一天一天爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
-「中」梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
-「中」梁静茹-问,http://vodcdn.video.taobao.com/oss/ali-video/b2a2adf565e97d00d1bd6d62145184d1/video.m3u8
-「中」毛宁/杨钰莹-心雨,http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
-「中」毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
-「中」毛宁-蓝蓝的夜蓝蓝的梦,http://vodcdn.video.taobao.com/oss/ali-video/6d5a8c2e7667e3d6138246a45571d1f7/video.m3u8
-「中」王菲-执迷不悔,http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
-「中」王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
-「中」胡杨林-香水有毒,http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
-「中」草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-「中」草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
-「中」草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
-「中」裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
-「中」誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
-「中」许茹芸-不爱我放了我,http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
-「中」许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
-「中」许茹芸-我依然爱你,http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
-「中」许茹芸-泪海,http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
-「中」谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
-「中」辛晓琪-仿佛是昨天,http://vodcdn.video.taobao.com/oss/ali-video/dbaf6d1d5a0ec2d93a668796e46e4f05/video.m3u8
-「中」辛晓琪-俩俩相忘,http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
-「中」辛晓琪-味道,http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
-「中」陈倩倩-婴儿,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
-「中」陈慧娴-孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
-「中」陈慧娴-红茶馆,http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
-「中」陈慧娴-跳舞街,http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
-「中」陈明真-为爱笑着流泪,http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
-「中」陈明真-变心的翅膀,http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
-「中」陈明真-情债,http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
-「中」陈明真-百万个吻,http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
-「中」黄凯芹-相爱很难,http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
-「中」黎瑞恩-为情为爱,http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
-「中」龙梅子-泪满天,http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
+亚洲经典音乐CCTV-0,http://live.xmcdn.com:80/live/1005/64.m3u8
 任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
 光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
 刘小慧-初恋情人,http://vodcdn.video.taobao.com/oss/ali-video/fce8631e2287d0c7ac98595060ab6e4c/video.m3u8
-北京好音乐 FM95.9,http://ls.qingting.fm/live/2131011.m3u8
-北京房山经典音乐 FM96.9,http://ls.qingting.fm/live/68746.m3u8
+北京怀旧音乐,https://ls.qingting.fm/live/20211619/64k.m3u8
+北京房山经典音乐,http://live.xmcdn.com/live/963/64.m3u8
+北京音乐,https://ls.qingting.fm/live/332/64k.m3u8
+叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
 叶倩文-我的爱对你说,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
 叶倩文-曾經心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
@@ -277,43 +189,59 @@ iHeart 90s (1080p),https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
 孟庭苇-一个爱上浪漫的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/DpBYbctgwaRj7bEYzFn%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+孟庭苇-你看你看月亮的脸,http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
 孟庭苇-你究竟有多少个好妹妹,http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
-孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+孟庭苇-冬季到CCTV-0,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+孟庭苇-我说的谎都是真的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
 孟庭苇-把思念寄托远方,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+孟庭苇-无声的雨,http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
+孟庭苇-春雪,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5ZFrpzPk37KvY7CaTUj%40%40hd.m3u8
 孟庭苇-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
+孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
+孟庭苇-真的还是假的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
 孟庭苇-红雨,http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
 孟庭苇-谁的眼泪在飞,http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
+孟庭苇-过冬,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
+孟庭苇-雾里看花,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
 孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
 孟庭苇-风里的梦,http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
-宁波私家车音乐台 FM104.7,http://ls.qingting.fm/live/1142.m3u8
-安阳汽车音乐台 FM100.8,http://ls.qingting.fm/live/2123.m3u8
 巫启贤-只因你伤心,http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/video.m3u8
-广东音乐之声 FM99.3,http://live.xmcdn.com/live/74/64.m3u8
-广西音乐台 FM95.0,http://ls.qingting.fm/live/4875.m3u8
+巫启贤-太傻,http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
 张学友-一颗不变心,http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
 张学友-只想一生跟你走,http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
 张学友-只愿一生爱一人,http://vodcdn.video.taobao.com/oss/ali-video/ea4c5cc5613797ac8c44027adb1a029e/video.m3u8
 张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
 张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
 张智霖-片片枫叶情,http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
+张智霖-现代爱情故事,http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
 彭佳慧-回味,http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
+彭佳慧-无法割舍,http://vodcdn.video.taobao.com/oss/ali-video/8be8f7d28d4f2c7ce759d431f0d3181b/video.m3u8
 怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
-怀集音乐之声,http://ls.qingting.fm/live/4804.m3u8
-星河音乐台,http://stream.hndt.com/live/1061/playlist.m3u8
-李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
-李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
-杨曼-9999滴眼泪,http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
-杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
-杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
+怀集音乐之声,http://live.xmcdn.com/live/1205/64.m3u8
+星河音乐CCTV-0,http://stream.hndt.com/live/1061/playlist.m3u8
+江门旅游音乐CCTV-0,http://ls.qingting.fm/live/1283.m3u8
+安阳汽车音乐CCTV-0,http://ls.qingting.fm/live/2123.m3u8
+清晨音乐CCTV-0,http://live.xmcdn.com:80/live/1011/64.m3u8
+怀集音乐CCTV-0,http://live.xmcdn.com:80/live/966/64.m3u8
 梁朝伟-一天一天爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
-梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+深圳飞扬音乐CCTV-0,http://ls.qingting.fm/live/1271.m3u8
+毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
+杨钰莹-等你一万年,http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
+广西音乐CCTV-0,http://ls.qingting.fm/live/4875.m3u8
+杨曼-9999滴眼泪,http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
+广州汽车音乐电CCTV-0,http://live.xmcdn.com/live/257/64.m3u8
+毛宁-蓝蓝的夜蓝蓝的梦,http://vodcdn.video.taobao.com/oss/ali-video/6d5a8c2e7667e3d6138246a45571d1f7/video.m3u8
+李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
+杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
+李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
 梁静茹-问,http://vodcdn.video.taobao.com/oss/ali-video/b2a2adf565e97d00d1bd6d62145184d1/video.m3u8
+宁波私家车音乐CCTV-0,http://ls.qingting.fm/live/1142.m3u8
+杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
+梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
 毛宁/杨钰莹-心雨,http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
-江苏经典流行音乐 FM97.5,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-江门旅游音乐台 FM93.3,http://ls.qingting.fm/live/1283.m3u8
-浙江动听(音乐调频) FM96.8,http://live.xmcdn.com/live/637/64.m3u8
+杨钰莹-轻轻告诉你,http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
 王心凌-我会好好的,http://vodcdn.video.taobao.com/oss/ali-video/8f327fd6bce61d0cf4159601a64b395b/video.m3u8
 王心凌-第一次爱的人,http://vodcdn.video.taobao.com/oss/ali-video/ca36ac1783434eb19f59aadd056b05e1/1457686780/video.m3u8.m3u8
 王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
@@ -326,11 +254,11 @@ iHeart 90s (1080p),https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 百视爱乐,https://bp-caster.bestv.com.cn/930/1/video.m3u8
 百视音乐,https://bp-caster.bestv.com.cn/894/3/video.m3u8
 相声专场,http://bp-caster.bestv.com.cn/512/1/video.m3u8
-经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
 经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+老歌音乐CCTV-0,http://live.xmcdn.com:80/live/2628/64.m3u8
 胡杨林-香水有毒,http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
 艾歌-一生中最爱的人,http://vodcdn.video.taobao.com/oss/ali-video/7506ddfc8f692a7cda1b2ef73531f78b/video.m3u8
-荆门交通音乐频率 FM99.3,http://ls.qingting.fm/live/60808.m3u8
 草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
 草蜢-失恋阵綫联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
@@ -339,17 +267,18 @@ iHeart 90s (1080p),https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
 裘正海-爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
 西宁私家车音乐调频,http://ls.qingting.fm/live/3377772.m3u8
+西寧私家车音乐调频,http://ls.qingting.fm/live/3377772.m3u8
 誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
+许茹芸-不爱我放了我,http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
 许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
 许茹芸-我依然爱你,http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
 许茹芸-泪海,http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
 许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
 谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
-贵阳音乐之声 动感909 FM90.9,http://ls.qingting.fm/live/4874.m3u8
 辛晓琪-仿佛是昨天,http://vodcdn.video.taobao.com/oss/ali-video/dbaf6d1d5a0ec2d93a668796e46e4f05/video.m3u8
 辛晓琪-俩俩相忘,http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
+辛晓琪-味道,http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
 辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
-郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
 陈倩倩-婴儿,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
 陈慧娴-孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
 陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
@@ -360,9 +289,10 @@ iHeart 90s (1080p),https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 陈明真-变心的翅膀,http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
 陈明真-念念不忘的情人,http://vodcdn.video.taobao.com/oss/ali-video/a4e5b03f0ce8a9b20cea95e6ff3ce25a/video.m3u8
 陈明真-情债,http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
+陈明真-百万个吻,http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
 雨花石-云朵,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/20a65dbb23e4448cbcb52a756ebdc74d/2000.m3u8
-青岛经典音乐调频 FM87.5,http://live.xmcdn.com/live/1853/64.m3u8
 风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+高清音乐CCTV-0,http://live.xmcdn.com:80/live/1427/64.m3u8
 黄凯芹-伤感的恋人,http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
 黄凯芹-相爱很难,http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
 黄凯芹-雨中的恋人们,http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
